@@ -1,0 +1,7 @@
+# Local configuration and runtime data
+.env
+.venv/
+__pycache__/
+*.py[cod]
+data/
+logs/
